@@ -1,4 +1,3 @@
-# PowerBi-Dashboards
 # 📊 Dashboard Interactivo de Ventas – Análisis Multianual de Rendimiento Comercial
 
 Este dashboard fue creado para visualizar y analizar el rendimiento de ventas de un negocio, utilizando Power BI como herramienta principal de análisis.
